@@ -1,4 +1,4 @@
-➕ Input Voltage 24V 
+➕ Input Voltage 24-30V 
 ➕ stepping down to 
 ➕ Output Voltage 5V and 12V 
 ➕ Output amps 5amps for the 5v output (PI)
